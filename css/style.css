@@ -1,0 +1,53 @@
+/* General styles */
+
+body {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 16px;
+  line-height: 1.5;
+  color: #444;
+  background-color: #f5f5f5;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Lato', sans-serif;
+  color: #222;
+  margin: 0 0 20px 0;
+  font-weight: 700;
+}
+
+p {
+  margin: 0 0 20px 0;
+}
+
+a {
+  color: #00bfa5;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #00897b;
+}
+
+/* Eco-friendly styles */
+
+.eco-friendly {
+  background-color: #e0f7fa;
+  color: #00bfa5;
+}
+
+.eco-friendly h1,
+.eco-friendly h2,
+.eco-friendly h3,
+.eco-friendly h4,
+.eco-friendly h5,
+.eco-friendly h6 {
+  color: #00bfa5;
+}
+
+.eco-friendly a {
+  color: #00bfa5;
+}
+
+.eco-friendly a:hover {
+  color: #00897b;
+}
