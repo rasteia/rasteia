@@ -1,0 +1,19 @@
+/* Open Sans font */
+
+@font-face {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Open Sans'), local('OpenSans'), url(fonts/open-sans.woff2) format('woff2');
+}
+
+/* Lato font */
+
+@font-face {
+  font-family: 'Lato';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Lato'), local('Lato-Regular'), url(fonts/lato.woff2) format('woff2');
+}
+
+/* Add additional fonts as needed */
