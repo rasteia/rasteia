@@ -1,0 +1,40 @@
+/* Eco-friendly colors */
+
+:root {
+  --primary-color: #00bfa5;
+  --secondary-color: #00897b;
+  --tertiary-color: #e0f7fa;
+  --quaternary-color: #f5f5f5;
+}
+
+/* Apply colors to specific elements */
+
+a {
+  color: var(--primary-color);
+}
+
+a:hover {
+  color: var(--secondary-color);
+}
+
+.eco-friendly {
+  background-color: var(--tertiary-color);
+  color: var(--primary-color);
+}
+
+.eco-friendly h1,
+.eco-friendly h2,
+.eco-friendly h3,
+.eco-friendly h4,
+.eco-friendly h5,
+.eco-friendly h6 {
+  color: var(--primary-color);
+}
+
+.eco-friendly a {
+  color: var(--primary-color);
+}
+
+.eco-friendly a:hover {
+  color: var(--secondary-color);
+}
